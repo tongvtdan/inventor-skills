@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "inventor-skills",
+  "version": "1.0.0",
+  "description": "TRIZ and SIT systematic innovation methods for Claude — resolve contradictions, generate breakthrough ideas, and invent on demand.",
+  "owner": {
+    "name": "Dan Tong",
+    "email": "tongvtdan@gmail.com",
+    "url": "https://github.com/tongvtdan"
+  },
+  "plugins": [
+    {
+      "name": "inventor-skills",
+      "description": "Systematic innovation with TRIZ (40 Inventive Principles, Contradiction Matrix, IFR, ARIZ) and SIT (Subtraction, Multiplication, Division, Task Unification, Attribute Dependency). Commands: /inventor-skills:innovate, /inventor-skills:solve-contradiction, /inventor-skills:invent.",
+      "source": "./inventor-skills",
+      "category": "innovation"
+    }
+  ]
+}

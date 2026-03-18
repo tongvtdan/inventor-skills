@@ -1,0 +1,25 @@
+{
+  "name": "inventor-skills",
+  "version": "1.0.0",
+  "description": "Systematic innovation with TRIZ and SIT — resolve contradictions, generate breakthrough ideas, and invent on demand using /inventor-skills:innovate, /inventor-skills:solve-contradiction, and /inventor-skills:invent.",
+  "author": {
+    "name": "Dan Tong",
+    "email": "tongvtdan@gmail.com",
+    "url": "https://github.com/tongvtdan/inventor-skills"
+  },
+  "keywords": [
+    "triz",
+    "sit",
+    "innovation",
+    "invention",
+    "problem-solving",
+    "creativity",
+    "systematic-inventive-thinking",
+    "contradiction",
+    "ideality",
+    "claude-plugin"
+  ],
+  "homepage": "https://github.com/tongvtdan/inventor-skills",
+  "repository": "https://github.com/tongvtdan/inventor-skills",
+  "license": "MIT"
+}

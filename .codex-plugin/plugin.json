@@ -1,0 +1,41 @@
+{
+  "name": "inventor-skills",
+  "version": "1.0.0",
+  "description": "Systematic innovation skills for Codex using TRIZ, SIT, and a combined invention pipeline.",
+  "author": {
+    "name": "Dan Tong",
+    "email": "tongvtdan@gmail.com",
+    "url": "https://github.com/tongvtdan/inventor-skills"
+  },
+  "homepage": "https://github.com/tongvtdan/inventor-skills",
+  "repository": "https://github.com/tongvtdan/inventor-skills",
+  "license": "MIT",
+  "keywords": [
+    "triz",
+    "sit",
+    "innovation",
+    "invention",
+    "problem-solving",
+    "creativity",
+    "systematic-inventive-thinking",
+    "contradiction",
+    "ideality"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Inventor Skills",
+    "shortDescription": "Invent faster with TRIZ, SIT, and founder-grade invention workflows.",
+    "longDescription": "A Codex plugin for systematic invention: use SIT to generate product and business model concepts inside existing constraints, TRIZ to resolve technical or business contradictions, and the combined invention pipeline to turn rough opportunities into ranked concepts with prototype steps.",
+    "developerName": "Dan Tong",
+    "category": "Productivity",
+    "capabilities": [
+      "Interactive",
+      "Analyze",
+      "Write"
+    ],
+    "defaultPrompt": "Invent a shippable product concept using SIT first, then TRIZ to resolve the hardest contradiction.",
+    "brandColor": "#2563EB",
+    "composerIcon": "assets/inventor-icon-square.png",
+    "logo": "assets/inventor-icon.png"
+  }
+}

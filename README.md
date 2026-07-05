@@ -148,6 +148,10 @@ Once you have an invention brief, use [patent-skills](https://github.com/tongvtd
 inventor-skills -> Invention Brief -> patent-skills -> IP strategy / claims / filing draft
 ```
 
+## Author
+
+Dan Tong — Inventor, entrepreneur, and IP strategy enthusiast — tongvtdan@gmail.com
+
 ## License
 
 MIT. See [LICENSE](LICENSE).
